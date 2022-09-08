@@ -1,7 +1,6 @@
 # E-Commerce-Project
-## Tools used
+## Tech stack used
 1. Java
-2. Maven
 3. SpringBoot
 4. Mongo DB
 5. HTML
